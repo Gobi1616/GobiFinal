@@ -1,5 +1,3 @@
-# GobiFinal
-
 The team did a good job of meeting deadlines and delivering on promises, but it could do a better job of clearly distributing duties to avoid duplication and rework. We could have done more study before deciding on the ML model because we started with the Spacy model but realised it wasn't meeting our needs, so we switched to the Classification and LDA models. Work may be more efficient if more research, teamwork, and a clear division of responsibility for each task were done.
 
 During the data collecting phase, the team also had to wait for Twitter API permission, which takes a few days. Knowing this team will help them be better prepared in the future when similar APIs are needed for data collecting. The team also attempted to use the AWS RDS cloud platform by connecting the Postgres Database to AWS RDS, but due to the limitations of free usage, they did not use it extensively in code or otherwise. Similarly, rather than using SQL Alchmey and Postgres, the team could have utilised a database that is better suitable with text data, such as MongoDB.
